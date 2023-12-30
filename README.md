@@ -1,7 +1,7 @@
 # basheer
 *your personal matchmaker*
 
-Unlike [Sima Taparia](https://www.lifestyleasia.com/ind/entertainment/sima-taparia-charges-for-matchmaking-services/) Basheer is your free personalized matchmaker, leveraging huggingface's inference API and some other tools to match you with the best profile based on the provided Biodata.
+Unlike [Sima Taparia](https://www.lifestyleasia.com/ind/entertainment/sima-taparia-charges-for-matchmaking-services/) Basheer is your free personalized matchmaker, leveraging huggingface's inference API and some other tools to match you with the best profile based on the provided Biodatas.
 
 For now Basheer is still experimental and only analyzes data from Reddit, this is a simple weekend project as I expand my knowledge on prompt engineering and LLMs more features will be added.
 
